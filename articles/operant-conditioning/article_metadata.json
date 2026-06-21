@@ -1,0 +1,33 @@
+{
+  "slug": "operant-conditioning",
+  "title": "Operant Conditioning",
+  "series_title": "Motivation, Reinforcement, and Learning",
+  "repository": "motivation-reinforcement-learning-code",
+  "path": "articles/operant-conditioning/",
+  "summary": "Learning through consequences and behavioral selection.",
+  "status": "scaffolded",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "standard": "sustainable-catalyst-article-folder-v2",
+  "layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculators": true,
+  "responsible_use": "Educational scaffold only; not validated operational guidance."
+}

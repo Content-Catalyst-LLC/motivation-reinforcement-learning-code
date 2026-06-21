@@ -1,0 +1,163 @@
+{
+  "repository": "motivation-reinforcement-learning-code",
+  "organization": "Content-Catalyst-LLC",
+  "series_title": "Motivation, Reinforcement, and Learning",
+  "kind": "article-map",
+  "description": "Companion repository for motivation, reinforcement, learning, conditioning, feedback, reward systems, self-determination, gamification, and ethical learning environments.",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "upgrade_tag": "behavioral-science-upgrade-20260621-003706",
+  "standard": "sustainable-catalyst-article-map-code-repo-v2",
+  "article_count": 21,
+  "article_root": "articles/",
+  "shared_root": "_shared/",
+  "default_article_layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculator_layer_required": true,
+  "articles": [
+    {
+      "slug": "what-is-motivation",
+      "title": "What Is Motivation?",
+      "summary": "A foundational article on the forces that initiate and sustain behavior.",
+      "path": "articles/what-is-motivation/"
+    },
+    {
+      "slug": "what-is-reinforcement",
+      "title": "What Is Reinforcement?",
+      "summary": "Reinforcement as behavioral strengthening through consequence and context.",
+      "path": "articles/what-is-reinforcement/"
+    },
+    {
+      "slug": "learning-as-behavioral-adaptation",
+      "title": "Learning as Behavioral Adaptation",
+      "summary": "How organisms and people adjust behavior through experience.",
+      "path": "articles/learning-as-behavioral-adaptation/"
+    },
+    {
+      "slug": "behaviorism-and-observable-action",
+      "title": "Behaviorism and the Study of Observable Action",
+      "summary": "Classic behaviorism and empirical approaches to action.",
+      "path": "articles/behaviorism-and-observable-action/"
+    },
+    {
+      "slug": "from-conditioning-to-cognitive-learning",
+      "title": "From Conditioning to Cognitive Learning",
+      "summary": "The bridge between behaviorist learning and cognitive theory.",
+      "path": "articles/from-conditioning-to-cognitive-learning/"
+    },
+    {
+      "slug": "motivation-environment-and-agency",
+      "title": "Motivation, Environment, and Agency",
+      "summary": "How internal motives and external settings interact.",
+      "path": "articles/motivation-environment-and-agency/"
+    },
+    {
+      "slug": "classical-conditioning",
+      "title": "Classical Conditioning",
+      "summary": "Learning through association and predictive cues.",
+      "path": "articles/classical-conditioning/"
+    },
+    {
+      "slug": "operant-conditioning",
+      "title": "Operant Conditioning",
+      "summary": "Learning through consequences and behavioral selection.",
+      "path": "articles/operant-conditioning/"
+    },
+    {
+      "slug": "reinforcement-and-punishment",
+      "title": "Reinforcement and Punishment",
+      "summary": "Strengthening and weakening behavior through consequences.",
+      "path": "articles/reinforcement-and-punishment/"
+    },
+    {
+      "slug": "positive-and-negative-reinforcement",
+      "title": "Positive and Negative Reinforcement",
+      "summary": "How adding or removing stimuli can strengthen behavior.",
+      "path": "articles/positive-and-negative-reinforcement/"
+    },
+    {
+      "slug": "extinction-generalization-and-discrimination",
+      "title": "Extinction, Generalization, and Discrimination",
+      "summary": "How learned behavior changes across contexts.",
+      "path": "articles/extinction-generalization-and-discrimination/"
+    },
+    {
+      "slug": "schedules-of-reinforcement",
+      "title": "Schedules of Reinforcement",
+      "summary": "Fixed, variable, interval, and ratio schedules.",
+      "path": "articles/schedules-of-reinforcement/"
+    },
+    {
+      "slug": "shaping-chaining-and-behavioral-training",
+      "title": "Shaping, Chaining, and Behavioral Training",
+      "summary": "Building complex behaviors from simpler actions.",
+      "path": "articles/shaping-chaining-and-behavioral-training/"
+    },
+    {
+      "slug": "reward-systems-and-behavioral-strengthening",
+      "title": "Reward Systems and Behavioral Strengthening",
+      "summary": "How rewards affect behavior over time.",
+      "path": "articles/reward-systems-and-behavioral-strengthening/"
+    },
+    {
+      "slug": "feedback-loops-in-learning",
+      "title": "Feedback Loops in Learning",
+      "summary": "Feedback as correction, reinforcement, and adaptation.",
+      "path": "articles/feedback-loops-in-learning/"
+    },
+    {
+      "slug": "immediate-vs-delayed-feedback",
+      "title": "Immediate vs Delayed Feedback",
+      "summary": "Timing and the strength of learning signals.",
+      "path": "articles/immediate-vs-delayed-feedback/"
+    },
+    {
+      "slug": "variable-rewards-and-behavioral-capture",
+      "title": "Variable Rewards and Behavioral Capture",
+      "summary": "Unpredictable reward schedules, persistence, and platform risks.",
+      "path": "articles/variable-rewards-and-behavioral-capture/"
+    },
+    {
+      "slug": "intrinsic-and-extrinsic-motivation",
+      "title": "Intrinsic and Extrinsic Motivation",
+      "summary": "Internal and external drivers of action.",
+      "path": "articles/intrinsic-and-extrinsic-motivation/"
+    },
+    {
+      "slug": "self-determination-theory",
+      "title": "Self-Determination Theory",
+      "summary": "Autonomy, competence, relatedness, and sustainable motivation.",
+      "path": "articles/self-determination-theory/"
+    },
+    {
+      "slug": "autonomy-competence-and-relatedness",
+      "title": "Autonomy, Competence, and Relatedness",
+      "summary": "Core needs in self-determination theory.",
+      "path": "articles/autonomy-competence-and-relatedness/"
+    },
+    {
+      "slug": "gamification-and-behavioral-design",
+      "title": "Gamification and Behavioral Design",
+      "summary": "Points, feedback, incentives, motivation, and ethics.",
+      "path": "articles/gamification-and-behavioral-design/"
+    }
+  ],
+  "responsible_use": "Educational and research-scaffolding examples only; not operational guidance without validation and ethical review."
+}
